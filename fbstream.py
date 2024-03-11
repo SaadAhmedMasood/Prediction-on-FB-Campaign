@@ -55,7 +55,7 @@ def generate_suggestion(prediction, user_input):
             return "Your ad campaign might not be approved."
 
 def main():
-    st.title('Live Prediction Of Expected Conversion test6')
+    st.title('Live Prediction Of Expected Conversion')
 
     # Get user input
     user_input = {
